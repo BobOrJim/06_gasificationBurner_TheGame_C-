@@ -3,7 +3,7 @@
 
 Detta spel är byggt på en fysiksimulator som heter the powder toy och som jag modifierat.
 
-See manual
+See SFC-TOTAL_BADASS_Manual.pdf
 
 
 
